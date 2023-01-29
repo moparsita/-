@@ -1,0 +1,5 @@
+enum WebControllers {
+  data,
+  auth,
+
+}

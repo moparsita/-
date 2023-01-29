@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595454547592",
+    "project_id": "redleaf-a6128",
+    "storage_bucket": "redleaf-a6128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595454547592:android:4d50ca518539c62f98313d",
+        "android_client_info": {
+          "package_name": "com.negarine.redleaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595454547592-kcs1esdr53ek7a98fnjdn0pfedg4gveb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtsa42PNCkULtRHUwIGUvVW5WizryxvCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595454547592-kcs1esdr53ek7a98fnjdn0pfedg4gveb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
